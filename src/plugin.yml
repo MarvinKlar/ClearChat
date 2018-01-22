@@ -1,0 +1,7 @@
+main: mr.minecraft15.ClearChat.Main.Main
+name: ClearChat
+version: 1.0
+author: Mr_Minecraft15
+commands:
+ clearchat:
+  aliases: [cc]
